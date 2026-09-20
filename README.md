@@ -143,11 +143,9 @@ This part demonstrates basic experience using SageMaker notebooks, S3 data stora
 ## Repository contents
 
 ```text
-.
-├── README.md
+
 ├── Assignment 1 Notebook.ipynb       # Main analysis and modelling workflow
 ├── Task4_AWS_ML.ipynb                # AWS SageMaker experiment
-├── Generative AI use statement (v10).docx
 └── playground-series-s4e10/
     ├── train.csv
     ├── test.csv
